@@ -1,0 +1,16 @@
+.block {
+  border: 2px solid rgba(196, 196, 196, 0.712);
+  box-shadow: 4px 4px 55px 0px rgba(255, 255, 255, 0.712);
+  padding: 20px;
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: rgba(22, 22, 22, 0.945);
+  border-radius: 8px;
+
+  background: radial-gradient(
+    circle at 330% 100%,
+    hsl(0, 0%, 69%),
+    hsl(0, 0%, 0%)
+  );
+}
